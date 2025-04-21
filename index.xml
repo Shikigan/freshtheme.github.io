@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Fresh Theme</title>
-    <link>http://localhost:1313/</link>
+    <link>http://Shikigan.github.io/</link>
     <description>Recent content on Hugo Fresh Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://Shikigan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://Shikigan.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://Shikigan.github.io/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Products</title>
-      <link>http://localhost:1313/products/</link>
+      <link>http://Shikigan.github.io/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/</guid>
+      <guid>http://Shikigan.github.io/products/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://Shikigan.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://Shikigan.github.io/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://Shikigan.github.io/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/</guid>
+      <guid>http://Shikigan.github.io/services/</guid>
       <description>&lt;p&gt;We provide a range of services, from design to deployment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-development&#34;&gt;Web Development&lt;/h2&gt;&#xA;&lt;p&gt;Our web development services include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Frontend Development&lt;/li&gt;&#xA;&lt;li&gt;Backend Development&lt;/li&gt;&#xA;&lt;li&gt;Full-Stack Development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;example-project&#34;&gt;Example Project&lt;/h3&gt;&#xA;&lt;p&gt;Here’s a project we did for a client:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/project.jpg&#34; alt=&#34;Project Image&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
