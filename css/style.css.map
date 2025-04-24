@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Hugo/Fresh",
+	"sourceRoot": "C:/hugo/fresh",
 	"sources": [
 		"C:/Users/Ruchira/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!stef!ma/hugo-fresh@v1.2.0/assets/style.sass",
 		"../../Users/Ruchira/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/jgthms/bulma@v0.0.0-20220508134905-3e00a8e6d0d0/bulma.sass",
